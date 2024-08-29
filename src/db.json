@@ -1,0 +1,176 @@
+{
+  "All_Data": {
+    "burgers": [
+      {
+        "id": 1,
+        "title": "Classic Burger",
+        "price": "$8.99",
+        "description": "A delicious classic burger with lettuce, tomato, and cheese.",
+        "image": "https://5.imimg.com/data5/JJ/XO/GLADMIN-33179691/classic-veg-burger.png"
+      },
+      {
+        "id": 2,
+        "title": "BBQ Bacon Burger",
+        "price": "$10.99",
+        "description": "Juicy burger topped with crispy bacon and BBQ sauce.",
+        "image": "https://www.tastesoflizzyt.com/wp-content/uploads/2019/06/bacon-cheeseburger-4-500x375.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Cheeseburger",
+        "price": "$9.49",
+        "description": "A classic cheeseburger with melted cheddar cheese.",
+        "image": "https://iambaker.net/wp-content/uploads/2019/05/cheeseburger-4-e1558391861585.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Mushroom Swiss Burger",
+        "price": "$11.49",
+        "description": "A savory burger topped with sautéed mushrooms and Swiss cheese.",
+        "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/01/healthy-swiss-burger-red-wine-mushrooms.jpg?quality=82&strip=1"
+      },
+      {
+        "id": 5,
+        "title": "Veggie Burger",
+        "price": "$7.99",
+        "description": "A healthy veggie burger made with black beans and quinoa.",
+        "image": "https://www.cookingclassy.com/wp-content/uploads/2023/08/hamburgers-20-500x500.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Spicy Jalapeño Burger",
+        "price": "$10.49",
+        "description": "A spicy burger with jalapeños, pepper jack cheese, and hot sauce.",
+        "image": "https://www.allrecipes.com/thmb/5JVfA7MxfTUPfRerQMdF-nGKsLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25473-the-perfect-basic-burger-DDMFS-4x3-56eaba3833fd4a26a82755bcd0be0c54.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Avocado Burger",
+        "price": "$9.99",
+        "description": "A creamy avocado burger with fresh slices of avocado and lime mayo.",
+        "image": "https://www.mypricechopper.com/Frontend/Media/Recipes/JuicyBaconAvocadoBurger_Web_1110x625.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Bacon Cheese Burger",
+        "price": "$11.99",
+        "description": "A hearty burger with crispy bacon and melted cheddar cheese.",
+        "image": "https://www.simplyrecipes.com/thmb/cgJTtVSTy-ftI1dBM4P2x2FJf14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Bacon-Cheeseburger-LEAD-2b-6606850da0164612b5fb406a0e33f8df.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Double Patty Burger",
+        "price": "$12.99",
+        "description": "A massive burger with two juicy beef patties and cheese.",
+        "image": "https://media.istockphoto.com/id/617759204/photo/steakhouse-double-bacon-cheeseburger.jpg?b=1&s=612x612&w=0&k=20&c=rp8RMNNNyZ0rwZiUGcRJDP527olVOh_9wjPbJdWtdcU="
+      },
+      {
+        "id": 11,
+        "title": "Hawaiian Burger",
+        "price": "$11.49",
+        "description": "A tropical burger with grilled pineapple and teriyaki sauce.",
+        "image": "https://www.skinnytaste.com/wp-content/uploads/2015/05/grilled-lean-teriyaki-burger-550x390.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Blue Cheese Burger",
+        "price": "$10.99",
+        "description": "A gourmet burger with tangy blue cheese and caramelized onions.",
+        "image": "https://www.foodrepublic.com/img/gallery/bacon-blue-cheese-burger-recipe/intro-import.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Buffalo Chicken Burger",
+        "price": "$9.99",
+        "description": "A spicy burger with buffalo chicken, ranch dressing, and lettuce.",
+        "image": "https://throwdownkitchen.com/wp-content/uploads/2021/06/Buffalo-Chicken-Sandwich-scaled.jpg"
+      }
+    ],
+    "pizzas": [
+      {
+        "id": 1,
+        "title": "Margherita Pizza",
+        "price": "$12.99",
+        "description": "Traditional pizza with tomato, mozzarella, and basil.",
+        "image": "https://www.yumcurry.com/wp-content/uploads/2020/06/pizza-margherita-recipe.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Pepperoni Pizza",
+        "price": "$14.49",
+        "description": "Classic pepperoni pizza with tomato sauce and cheese.",
+        "image": "https://www.moulinex-me.com/medias/?context=bWFzdGVyfHJvb3R8MTQzNTExfGltYWdlL2pwZWd8YUdObEwyaG1aQzh4TlRrMk9EWXlOVGM0TmpreE1DNXFjR2N8MmYwYzQ4YTg0MTgzNmVjYTZkMWZkZWZmMDdlMWFlMjRhOGIxMTQ2MTZkNDk4ZDU3ZjlkNDk2MzMzNDA5OWY3OA"
+      },
+      {
+        "id": 3,
+        "title": "BBQ Chicken Pizza",
+        "price": "$15.99",
+        "description": "Pizza with BBQ chicken, red onions, and cilantro.",
+        "image": "https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Veggie Delight Pizza",
+        "price": "$13.99",
+        "description": "A pizza loaded with fresh vegetables and mozzarella cheese.",
+        "image": "https://www.pizzazzy.in/assets/pic/10.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Hawaiian Pizza",
+        "price": "$14.99",
+        "description": "Sweet and savory pizza with ham, pineapple, and mozzarella.",
+        "image": "https://static01.nyt.com/images/2023/03/29/multimedia/23HAMREX2-pineapple-ham-pizza-qwct/HAMREX2-pineapple-ham-pizza-qwct-superJumbo.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Four Cheese Pizza",
+        "price": "$16.49",
+        "description": "A rich pizza with a blend of mozzarella, cheddar, parmesan, and blue cheese.",
+        "image": "https://images.ctfassets.net/nw5k25xfqsik/7v9YdB3xOTeDCx2PJuw6Nk/e755ce5413e7c9600bda03ace27f3ee1/FourCheese_Resized.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Buffalo Chicken Pizza",
+        "price": "$15.49",
+        "description": "Spicy pizza with buffalo chicken, blue cheese, and celery.",
+        "image": "https://www.thespruceeats.com/thmb/bFLeGj1LnKO9ow7XIcddeRovVQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-buffalo-chicken-pizza-8580296-hero-01-45dad919df034cc3bf73d774250e44d2.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Meat Lover's Pizza",
+        "price": "$17.49",
+        "description": "A hearty pizza with pepperoni, sausage, bacon, and ham.",
+        "image": "https://www.vincenzosplate.com/wp-content/uploads/2021/08/610x350-Photo-5_863-How-to-Make-MEATLOVERS-PIZZA-Like-an-Italian-V1.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Supreme Pizza",
+        "price": "$18.49",
+        "description": "A loaded pizza with pepperoni, sausage, bell peppers, onions, and olives.",
+        "image": "https://www.thespruceeats.com/thmb/lmDJraajDXMJ9izsIfzNt79GrSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pizzasupremehoriz-1ccfa0b1732b4c128427d19ae02a422b.jpg"
+      },
+      {
+        "id": 10,
+        "title": "White Pizza",
+        "price": "$14.99",
+        "description": "A garlic-infused pizza with ricotta, mozzarella, and parmesan cheese.",
+        "image": "https://www.thespruceeats.com/thmb/gisGv1U4IwJd_01i9P5RPCvEsyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-white-sauce-for-pizza-recipe-3377661-hero-01-3db2b9efa8d841058e3b3e5a4281d8cf.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Truffle Mushroom Pizza",
+        "price": "$19.99",
+        "description": "A gourmet pizza with truffle oil, mushrooms, and mozzarella.",
+        "image": "https://silveroak.com/wp-content/uploads/2020/03/Recipe-Foraged-Mushroom-Pizza-with-Truffles.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Margherita Pizza with Burrata",
+        "price": "$20.99",
+        "description": "A luxurious version of Margherita with fresh burrata cheese.",
+        "image": "https://ireward.superghs.com/resource/tee/rewards/margherita-with-burrata.jpeg"
+      }
+    ]
+  }
+}
